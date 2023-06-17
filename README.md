@@ -1,11 +1,11 @@
-About r-genalg
-==============
+About r-genalg-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-genalg-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/egonw/genalg
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-genalg-feedstock/blob/main/LICENSE.txt)
 
 Summary: R based genetic algorithm for binary and floating point chromosomes.
 
